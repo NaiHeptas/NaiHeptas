@@ -1,8 +1,8 @@
-<img align="center" alt="coding" width="1000" src="https://cdn.clippingpath.in/wp-content/uploads/2012/09/Graphics-Desing-and-Web-Development.png">
+<img align="center" alt="coding" width="900" src="https://cdn.clippingpath.in/wp-content/uploads/2012/09/Graphics-Desing-and-Web-Development.png">
 
 <h1 align="center">Hi 👋, I'm NaiHeptas</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474ttg1jj7apcfhe86fmxzpu25ryri6mhj321izxqo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="center" alt="coding" width="1000" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474ttg1jj7apcfhe86fmxzpu25ryri6mhj321izxqo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naiheptas&label=Profile%20views&color=0e75b6&style=flat" alt="naiheptas" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web developing, Game developing, and software developing**
 
-- 📫 How to reach me **akatsiker13@gmail.com**
+- 📫 How to reach me **akatsike13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
